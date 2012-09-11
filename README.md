@@ -5,8 +5,9 @@ The top level of the directory is expected to be only more directories.
 The next level is expected to be only PNGs.
 
 ## Usage
-Place these three files in the web-accessibly directory you would like to list.
-Visit browse.html in a web browser.
+Place these three files (browse.html, browse-list.php, browse-blank.html) in the
+web-accessible directory you would like to list. Visit browse.html in a web
+browser.
 
 ## Example (expected) directory structure
 - browse.html
